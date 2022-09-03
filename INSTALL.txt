@@ -94,7 +94,6 @@ Troubleshooting
 
 More information
 ================
-You can find a detailed guide on installing efront at http://docs.efrontlearning.net/index.php/Installation_instructions
 For any help or questions, visit our forum at http://forum.efrontlearning.net/
 
 
