@@ -97,4 +97,4 @@ ACKNOWLEDGEMENTS
 
 The Zend Framework team would like to thank all the contributors to the Zend
 Framework project, our corporate sponsor, and you, the Zend Framework user.
-Please visit us sometime soon at http://framework.zend.com.
+
