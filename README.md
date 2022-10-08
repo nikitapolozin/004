@@ -4,4 +4,4 @@ This is a working copy of eFront.
 
 eFront Readme (russian)
 -----------------------
-Это скопрированная рабочая копия СДО eFront. 
+Это скопированная рабочая копия СДО eFront. 
